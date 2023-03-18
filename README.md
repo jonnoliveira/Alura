@@ -4,7 +4,7 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 _"A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas."_
 
-Você pode saber mais sobre a DIO [aqui](https://help.dio.me/pt-BR/articles/6061197-como-a-dio-funciona)!
+Saiba mais sobre a DIO [aqui](https://help.dio.me/pt-BR/articles/6061197-como-a-dio-funciona)!
 
 #
 
