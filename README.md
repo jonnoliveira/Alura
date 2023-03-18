@@ -1,6 +1,6 @@
 # DIO :purple_heart:
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Jonathas Assis de Oliveira](https://www.linkedin.com/in/jonn-oliveira/) enquanto estudava os cursos disponibilizados pela [DIO](https://www.dio.me/). :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Jonathas Assis de Oliveira](https://www.linkedin.com/in/jonn-oliveira/) enquanto estudava os cursos, bootcamps e acelerações disponibilizados pela [DIO](https://www.dio.me/). :rocket:
 
 _"A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas."_
 
