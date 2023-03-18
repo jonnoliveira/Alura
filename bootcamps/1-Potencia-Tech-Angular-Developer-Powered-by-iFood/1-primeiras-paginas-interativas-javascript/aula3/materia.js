@@ -46,3 +46,31 @@ if (imc < 18.5) {
 } else {
   console.log(`Seu IMC é ${imc} e você se encontra com OBESIDADE GRAVE`);
 }
+
+// Elabora um algoritimo que calcule o que deve ser pago por um produto, considerando o preço normal de
+// etiqueta e a escolha da condição de pagamento.
+// Uitlize os códigos da tabela a seguir para ler qual a condição de pagamento escolhido e efetuar
+// o cálculo adequado.
+
+// Condição de pagamento:
+//   - Á vista Débito, recebe 10% de desconto; (1)
+//   - À vista no Dinheiro ou PIX, recebe 15% de desconto; (2)
+//   - Em duas vezes, preço normal de etiqueta sem juros; (3)
+//   - Acima de duas vezes, preço normal de etiqueta mais juros de 10%; (4)
+
+const preçoProduto = 100;
+const formaDePagamento = 4;
+
+if (formaDePagamento === 1) {
+  const valorTotal = (preçoProduto - (preçoProduto * 0.10)).toFixed(2);
+  console.log(`O valor a pagar à vista no Débito é de ${valorTotal}`)
+} else if (formaDePagamento === 2) {
+  const valorTotal = (preçoProduto - (preçoProduto * 0.15)).toFixed(2);
+  console.log(`O valor a pagar à vista no Dinheiro ou PIX é de ${valorTotal}`)
+} else if (formaDePagamento === 3) {
+  const valorTotal = (preçoProduto / 2).toFixed(2);
+  console.log(`O valor de cada parcela a pagar é de ${valorTotal}`)
+} else {
+  const valorTotal = ((preçoProduto + (preçoProduto * 0.10)) / 2).toFixed(2);
+  console.log(`O valor de cada parcela a pagar é de ${valorTotal}`)
+}
