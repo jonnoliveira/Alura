@@ -1,4 +1,4 @@
-// ============================================ Matéria ============================================
+// ============================================ VARIÁVEIS E OPERADORES ============================================
 
 // Nesse aula vimos uma pequena introdução sobre os tipos de variáveis que existem em JavaScript.
 // (!) A função toFixed() transforma o valor numérico em string, arredondando seu valor.
