@@ -59,7 +59,7 @@ if (imc < 18.5) {
 //   - Acima de duas vezes, preço normal de etiqueta mais juros de 10%; (4)
 
 const preçoProduto = 100;
-const formaDePagamento = 4;
+const formaDePagamento = 3;
 
 if (formaDePagamento === 1) {
   const valorTotal = (preçoProduto - (preçoProduto * 0.10)).toFixed(2);
@@ -71,6 +71,6 @@ if (formaDePagamento === 1) {
   const valorTotal = (preçoProduto / 2).toFixed(2);
   console.log(`O valor de cada parcela a pagar é de ${valorTotal}`)
 } else {
-  const valorTotal = ((preçoProduto + (preçoProduto * 0.10)) / 2).toFixed(2);
-  console.log(`O valor de cada parcela a pagar é de ${valorTotal}`)
+  const valorTotal = (preçoProduto + (preçoProduto * 0.10)).toFixed(2);
+  console.log(`O valor total é de ${valorTotal}`)
 }
