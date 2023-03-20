@@ -10,7 +10,7 @@ Saiba mais sobre a DIO [aqui](https://help.dio.me/pt-BR/articles/6061197-como-a-
 
 ## Minha Trilha Dev na DIO :white_check_mark:
 
-#### 1: Potência Tech Angular Developer - Powered by iFood :hearts:
+#### 1: Bootcamp - Potência Tech Angular Developer - Powered by iFood :hearts:
 
 - [x] 1-1: _Prepare-se para a jornada_
 - [ ] 1-2: _Primeiras páginas interativas com JavaScript_
