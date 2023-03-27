@@ -38,7 +38,7 @@ for (let index = 0; index < array.length; index += 1) {
   console.log(array[index]);
 } // João. José.
 
-// ============================================ EXERCICIOS ============================================
+// ============================================ EXERCICIOS ===========================================
 
 // 1 - Crie um programa que, dado um número, imprima a sua tabuada.
 
