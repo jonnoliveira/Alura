@@ -12,7 +12,7 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
 
 ## Minha Trilha Dev na Alura :white_check_mark:
 
-#### 1: React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+#### 1: React Native <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 - [] 1-1: _Prepare-se para a jornada_
 - [ ] 1-2: _Primeiras páginas interativas com JavaScript_
