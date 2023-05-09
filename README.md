@@ -12,7 +12,7 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
 
 ## Minha Trilha Dev na Alura :white_check_mark:
 
-<div alignt="center">
+<div align="center">
 #### 1: React Native<img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
