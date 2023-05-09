@@ -1,4 +1,4 @@
-# DIO :blue_heart:
+# Alura :blue_heart:
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por [Jonathas Assis de Oliveira](https://www.linkedin.com/in/jonn-oliveira/) enquanto estudava os cursos e formações disponibilizados pela [Alura](https://www.alura.com.br/). :rocket:
 
@@ -12,16 +12,10 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
 
 ## Minha Trilha Dev na Alura :white_check_mark:
 
-<div align="center">
-#### 1: React Native<img width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
 
-- [] 1-1: _Prepare-se para a jornada_
-- [ ] 1-2: _Primeiras páginas interativas com JavaScript_
-- [ ] 1-3: _Exercite sua lógica com Desafios de Código em JavaScript_
-- [ ] 1-4: _Ganhando produtividade com a plataforma Angular_
-- [ ] 1-5: _Explorando JSON na prática com Desafios de Código_
-- [ ] 1-6: _Trabalhando com Rotas e Serviços no Angular_
+#### 1: React Native - <img width=25 align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+- [ ] 1-1: _[Curso React Native: Criando um app](https://www.alura.com.br/curso-online-react-native-comecando-zero)_
 
 #
 
