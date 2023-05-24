@@ -84,6 +84,21 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
   * [ ] - _API: Testes de contrato_
   * [ ] - _Cobertura de Código_
   * [ ] - _Testes de Mutação - Testando seus testes_
+  
+#
+  
+#### [3 - Integração Contínua e Entrega Contínua](https://www.alura.com.br/formacao-integracao-continua-entrega-continua)
+- 3.1 - Criando uma rotina de CI:
+  * [ ] - [_Integração Contínua: testes automatizados e pipeline no Github Actions_](https://www.alura.com.br/curso-online-integracao-continua-testes-automatizados-pipeline-github-actions)
+  * [ ] - [_Integração Contínua: Pipeline Docker no Guthub Actions_](https://www.alura.com.br/curso-online-integracao-continua-pipeline-docker-github-actions)
+- 3.2 - Começando com entrega contínua:
+  * [ ] - [_Integração Contínua: Pipeline de entrega e implementação contínua na EC2_](https://www.alura.com.br/curso-online-integracao-continua-pipeline-entrega-implementacao-continua-ec2)
+  * [ ] - [_Integração Contínua: automatize o deploy no Amazon ECS_](https://www.alura.com.br/curso-online-integracao-continua-automatize-deploy-amazon-ecs)
+- 3.3 - Garantindo a aplicação e Kubernetes:
+  * [ ] - [_Integração Contínua: Rollback e teste de carga_](https://www.alura.com.br/curso-online-integracao-continua-rollback-teste-carga)
+  * [ ] - [_Integração Contínua: automatizando a entrega no Kubernetes_](https://www.alura.com.br/curso-online-integracao-continua-automatizando-entrega-kubernetes)
+  
+  
 
 
 
