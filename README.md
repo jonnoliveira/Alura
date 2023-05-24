@@ -12,8 +12,9 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
 
 ## Minha Trilha Dev na Alura :white_check_mark:
 
-#### 1: React Native - <img width=25 align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+#### [1 - React Native:](https://www.alura.com.br/cursos-online-mobile/react-native):
+  
 - [ ] 1-1: _[Criando um app](https://www.alura.com.br/curso-online-react-native-comecando-zero)_
 - [ ] 1-2: _[React Native com Expo: Navegação com Menu e suporte às telas](https://www.alura.com.br/curso-online-react-native-expo-navegacao-menu-suporte-telas)_
 - [ ] 1-3: _[Utilizando e criando Hooks](https://www.alura.com.br/curso-online-react-native-utilizando-criando-hooks)_
@@ -30,4 +31,81 @@ Saiba mais sobre a Alura [aqui](https://www.alura.com.br/sobre)!
 - [ ] 1-14: _[Construindo um app com Native-base](https://www.alura.com.br/curso-online-react-native-typescript-app-consultas-medicas)_
 
 #
+  
+#### [2 - Engenharia de Software:](https://www.alura.com.br/formacao-engenharia-software)
+- 2.1 - Design e Arquitetura:
+  * [ ] - _Design de código vs Arquitetura de software_
+  * [ ] - _O que é arquitetura hexagonal?_
+  * [ ] - _Clean Architecture (Arquitetura Limpa) - O que é?_
+  * [ ] - _Domain-Driven Design (DDD) - O que é?_
+  * [ ] - _O que é Mensageria?_
+  * [ ] - _Modelagem de Eventos_
+  * [ ] - _O que é uma arquitetura orientada a eventos?_
+- 2.2 - API e REST:
+  * [ ] - _O que é uma API?_
+  * [ ] - _Boas práticas na Modelagem de API's REST_
+  * [ ] - _O que é REST?_
+  * [ ] - _REST: Conceito e fundaentos_
+- 2.3 - Microsserviços:
+  * [ ] - _O que são Microsserviços?_
+  * [ ] - _Tipos de Microsserviços_
+  * [ ] - _Microsserviços com .NET Core: Comunicação Entre Serviços_
+  * [ ] - _O que é um API Gateway?_
+  * [ ] - _O que é Service Mesh?_
+  * [ ] - [_Microsserviços: padrões de projeto_](https://www.alura.com.br/curso-online-microsservicos-padroes-projeto)
+  * [ ] - [_Microsserviços: explorando os conceitos_](https://www.alura.com.br/curso-online-fundamentos-microsservicos-aprofundando-conceitos)
+  * [ ] - [_Microsserviços na prática: entendendo a tomada de decisões_](https://www.alura.com.br/curso-online-Microsservicos-pratica-tomada-decisoes)
+- 2.4 - DevOps e monitoramento:
+  * [ ] - _O que é DevOps?_
+  * [ ] - _DevOps: o que é e principais práticas_
+  * [ ] - _O que é DevSecOps?_
+  * [ ] - [_Integração continua: mais qualidade e menos risco no desenvolvimento_](https://www.alura.com.br/curso-online-desenvolvimento-software-integracao-continua)
+  * [ ] - [_Entrega contínua: confiabilidade e qualidade na implantação de software_](https://www.alura.com.br/curso-online-entrega-continua-confiabilidade-qualidade)
+  * [ ] - _SRE: Engenharia de Confiabilidade de Sites_
+  * [ ] - _O que é Observabilidade?_
+  * [ ] - _Monitorando aplicações: 4 Golden Signals_
+  * [ ] - _Monitoramento com Netdata_
+  * [ ] - _O que são Containers?_
+  * [ ] - _O que é Serveless?_
+  * [ ] - _O que é Infraestrutura como Código (IaC)?_
+- 2.5 - Agilidade e times:
+  * [ ] - _Cascata vs Ágil?_
+  * [ ] - [_Scrum: agilidade em seu projeto_](https://www.alura.com.br/curso-online-agile-scrum)
+  * [ ] - [_Organização de Equipes Ágeis: os papéis existentes em uma equipe_](https://www.alura.com.br/curso-online-organizando-equipes-ageis)
+  * [ ] - _Kanban: o que é e como funciona_
+  * [ ] - _Scrum x Kanban_
+  * [ ] - _O que é eXtreme Programming?_
+  * [ ] - [_Extreme Programming: metodologia de desenvolvimento ágil de software_](https://www.alura.com.br/curso-online-xp-extreme-programming)
+- 2.6 - Testes e qualidade:
+  * [ ] - [_Quality Assurance: plano de testes e gestão de bugs_](https://www.alura.com.br/curso-online-quality-assurance-plano-testes-gestao-bugs)
+  * [ ] - _O que é Test-Driven Development (TDD)?_
+  * [ ] - _O que é Behavior-Driven Development (BDD)?_
+  * [ ] - _Entenda a Pirâmide de Teste_
+  * [ ] - _API: Testes de contrato_
+  * [ ] - _Cobertura de Código_
+  * [ ] - _Testes de Mutação - Testando seus testes_
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
